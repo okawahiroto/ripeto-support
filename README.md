@@ -10,8 +10,8 @@
 
 ## リンク
 
-- [プライバシーポリシー](https://okawahiroto.github.io/ripeto-support/privacy)
-- [利用規約](https://okawahiroto.github.io/ripeto-support/terms)
+- [プライバシーポリシー](https://okawahiroto.github.io/ripeto-support/privacy.html)
+- [利用規約](https://okawahiroto.github.io/ripeto-support/terms.html)
 
 ---
 
