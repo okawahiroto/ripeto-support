@@ -53,7 +53,7 @@
 
 ご質問・不具合のご報告は、以下のメールアドレスまでお気軽にどうぞ。
 
-📧 **okawa.hiroto@gmail.com**
+📧 **okawa.hiroto.dev@gmail.com**
 
 ---
 
